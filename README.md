@@ -1,2 +1,2 @@
-# Drop Down Menus
-Different ways of creating drop down menus
+# Exploring CSS Grid
+Grid is good, use grid!
